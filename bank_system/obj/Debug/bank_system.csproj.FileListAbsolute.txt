@@ -1,0 +1,5 @@
+C:\Users\hakuz\Desktop\theo\bank_system\bank_system\bin\Debug\bank_system.exe
+C:\Users\hakuz\Desktop\theo\bank_system\bank_system\bin\Debug\bank_system.pdb
+C:\Users\hakuz\Desktop\theo\bank_system\bank_system\obj\Debug\bank_system.csprojAssemblyReference.cache
+C:\Users\hakuz\Desktop\theo\bank_system\bank_system\obj\Debug\bank_system.exe
+C:\Users\hakuz\Desktop\theo\bank_system\bank_system\obj\Debug\bank_system.pdb
